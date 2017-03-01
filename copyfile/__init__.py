@@ -1,1 +1,1 @@
-from copyfile import copyFile
+from .copyfile import copyFile
