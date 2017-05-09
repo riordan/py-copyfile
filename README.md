@@ -10,7 +10,7 @@ copy to an existing destination path. This will create the desired destination
 path, provided the directory has valid permissions.
 
 # Installation
-`pip install git+https://github.com/riordan/py-copyfile.git`
+`pip install copyfile`
 
 # Usage
 ```

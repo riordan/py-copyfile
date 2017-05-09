@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='copyfile',
-      version='0.1',
+      version='0.1.1',
       description='copies a file to a location which may not exist',
       url='http://github.com/riordan/py-copyfile',
       author='David Riordan',
